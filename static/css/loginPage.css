@@ -1,0 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 4rem;
+    text-align: center;
+    margin: 8rem 0rem;
+    color: #00b0ff;
+}
+body{
+    background-color: #ffbc6d;
+}
